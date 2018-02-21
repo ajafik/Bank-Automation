@@ -1,4 +1,4 @@
-SAMPLE PROGRAM FOR C++ ON BANKING
+//SAMPLE PROGRAM FOR C++ ON BANKING
 #include <fstream.h>
 #include <iostream.h>
 #include <conio.h>
@@ -442,7 +442,7 @@ l:
                         delay(1500);
                   }
                   clrscr();
-                  cout << "\n\n\n\n\n\t\t\t....T erminating....";
+                  cout << "\n\n\n\n\n\t\t\t....Terminating....";
                   delay(2500);
                   exit(0);
             default:
